@@ -1,8 +1,10 @@
 ---
-Diest ist ein Test
+icon: 'i-mdi-vuejs'
 ---
+::home-feature-component
+# title
+Embedding Components
 
-::home-feature-component{title="Dies ist ein Test Titel"}
+# description
+You can embed components in your Markdown files. This is a custom component that is defined in the `components` directory.
 ::
-
-#
