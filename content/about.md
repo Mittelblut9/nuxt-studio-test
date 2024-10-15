@@ -1,10 +1,14 @@
+::home-feature-component
 ---
+
 icon: 'i-mdi-vuejs'
 ---
-::home-feature-component
-# title
+
+#title
+
 Embedding Components
 
-# description
+#description
+
 You can embed components in your Markdown files. This is a custom component that is defined in the `components` directory.
 ::
