@@ -1,6 +1,22 @@
+---
+Diest ist ein Test
+---
+
 # About Content v2
 
-![Shared Image.png](/Shared%20Image.png)
+::prose-table
+#Test
+  :::prose-th
+  Test
+  :::
+
+#Test
+  :::prose-td
+  Test
+  :::
+::
+
+![Shared Image.png](/favicon.ico)
 
 ---
 
